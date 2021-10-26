@@ -1,2 +1,1 @@
-# cuex
-Private experiments with CUE
+# Private experiments with CUE
